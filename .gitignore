@@ -13,3 +13,7 @@ states/
 # Optional
 .env
 .env.local
+/.idea/.gitignore
+/.idea/contract.iml
+/.idea/modules.xml
+/.idea/vcs.xml
